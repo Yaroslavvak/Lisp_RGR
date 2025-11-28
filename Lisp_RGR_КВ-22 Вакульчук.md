@@ -42,8 +42,9 @@
 (print-results (calculate-sequence))
 ```
 ## Тестування та перевірка за допомогою (Excel)
-<img src="rgr1.png"></b>
+<img src="rgr1.png">
 <img src="rgr2.png">
+<img src="rgr3.png">
 
 
 
